@@ -1,0 +1,30 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: RGB(172, 50, 33);
+    
+    height: 200px;
+    width: 100%;
+    border-color: black;
+    border-style: groove;
+  
+  }
+  .logo-display{
+  
+    margin:20px;
+  
+  
+  }
+  .starter-pokemon{
+    margin: 30px;
+    
+  }
+  .search {
+    position: relative;
+    display: flex;
+    margin: 75px;
+    border: none;
+  }
+  
+  
